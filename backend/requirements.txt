@@ -1,9 +1,8 @@
-livekit-agents
-livekit-plugins-openai
-livekit-plugins-silero
+fastapi
+uvicorn[standard]
+SQLAlchemy
+pydantic
+alembic
 python-dotenv
-livekit-api
-flask[async]
-flask
-flask-cors
-uvicorn
+psycopg2-binary
+python-multipart
